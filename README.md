@@ -15,3 +15,10 @@ Learned how to use the bash profile to configure the environment. Articles about
 <img src="task_git_collaboration/git_collaboration.png">
 <img src="task_git_collaboration/version_control_with_git.png">
 Special thanks for this material - understandable, nice way of explaing, also it was useful to refresh my knowledge.
+
+## Intro to HTML and CSS
+<img src="task_html_css_intro/intro_css.png">
+<img src="task_html_css_intro/intro_html.png">
+<img src="task_html_css_intro/intro_html_and_css.png">
+<img src="task_html_css_intro/intro_html_css.png">
+Nice, simple course for beginners, as for me too much similar tasks.
