@@ -22,3 +22,9 @@ Special thanks for this material - understandable, nice way of explaing, also it
 <img src="task_html_css_intro/intro_html_and_css.png">
 <img src="task_html_css_intro/intro_html_css.png">
 Nice, simple course for beginners, as for me too much similar tasks.
+
+##Responsive web design
+<img src="task_responsive_web_design/responsive_web.png">
+<img src="task_responsive_web_design/grid_garden.png">
+<img src="task_responsive_web_design/frogg_flex.png">
+Great course, now I see my future web design from another side, one important benefit of a responsive layout is the guarantee that any user on any device will have the best experience possible on your website.
