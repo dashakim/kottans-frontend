@@ -23,8 +23,14 @@ Special thanks for this material - understandable, nice way of explaing, also it
 <img src="task_html_css_intro/intro_html_css.png">
 Nice, simple course for beginners, as for me too much similar tasks.
 
-##Responsive Web Design
+## Responsive Web Design
 <img src="task_responsive_web_design/responsive_web.png">
 <img src="task_responsive_web_design/grid_garden.png">
 <img src="task_responsive_web_design/frogg_flex.png">
 Great course, now I see my future web design from another side, one important benefit of a responsive layout is the guarantee that any user on any device will have the best experience possible on your website.
+
+
+## HTML & CSS practice:Popup
+[Demo](https://dashakim.github.io) |
+[Code base](https://github.com/dashakim/kottans-frontend/tree/master/task_html_css_popup)
+I was my first practice challenge. Now I know how important to write in my own way and fix the errors. Review helps to understand where I can improve my task.
