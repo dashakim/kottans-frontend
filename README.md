@@ -34,3 +34,14 @@ Great course, now I see my future web design from another side, one important be
 [Demo](https://dashakim.github.io) |
 [Code base](https://github.com/dashakim/kottans-frontend/tree/master/task_html_css_popup)
 I was my first practice challenge. Now I know how important to write in my own way and fix the errors. Review helps to understand where I can improve my task.
+
+## JS Basics
+[Intro to JS](task_js_basics/intro_to_js.png)
+[Basic JavaScript](task_js_basics/basic_javascript.png)
+[ES6 Challenges](task_js_basics/es6.png)
+[Basic Data Structure](task_js_basics/basic_data_structure.png)
+[Basic Algorithm Scripting](task_js_basics/basic_algorithm_scripting.png)
+[Functional Programming](task_js_basics/functional_programming.png)
+[Object Oriented Programming](task_js_basics/object_oriented_programming.png)
+[Algorithm Scripting Challenges](task_js_basics/intermediate_algorithm_scripting.png)
+It tooks a long time, actually I thought that I can solve all task much faster. Some tasks needs additional time for searching, reading, compare. 
