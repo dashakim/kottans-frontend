@@ -45,3 +45,8 @@ I was my first practice challenge. Now I know how important to write in my own w
 [Object Oriented Programming](task_js_basics/object_oriented_programming.png)  
 [Algorithm Scripting Challenges](task_js_basics/intermediate_algorithm_scripting.png)  
 It tooks a long time, actually I thought that I can solve all task much faster. Some tasks needs additional time for searching, reading, compare. 
+
+## DOM
+[Demo](https://dashakim.github.io/dom.github.io/)  
+[Code base](https://github.com/dashakim/dom)  
+
