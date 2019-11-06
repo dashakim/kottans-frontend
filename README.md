@@ -52,3 +52,11 @@ It tooks a long time, actually I thought that I can solve all task much faster. 
 
 ## A Tiny JS World
 [Demo](https://dashakim.github.io/a-tiny-JS-world/)
+
+## Object Oriented JS
+[Object Oriented JS](task_js_oop/oop_js.png)  
+[codewars profile](task_js_oop/profile_codewars.png)  
+
+## Frogger Game
+[Demo](https://dashakim.github.io/frontend-frogger-game/)  
+[Code base](https://github.com/dashakim/frontend-frogger-game)  
