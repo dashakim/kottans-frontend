@@ -49,9 +49,11 @@ It tooks a long time, actually I thought that I can solve all task much faster. 
 ## DOM
 [Demo](https://dashakim.github.io/dom.github.io/)  
 [Code base](https://github.com/dashakim/dom)  
+Actually, it's was excited part of education, finally I can use my theoretical knowledge to see how it's work. I enjoy to create dynamic elements.
 
 ## A Tiny JS World
 [Demo](https://dashakim.github.io/a-tiny-JS-world/)
+Good idea to start from "a tiny world" task, I don't pay attention on high part of OOP principles and just start from basic structure. Later, I will improve my task? so it will look DRY and SOLID)
 
 ## Object Oriented JS
 [Object Oriented JS](task_js_oop/oop_js.png)  
@@ -60,3 +62,4 @@ It tooks a long time, actually I thought that I can solve all task much faster. 
 ## Frogger Game
 [Demo](https://dashakim.github.io/frontend-frogger-game/)  
 [Code base](https://github.com/dashakim/frontend-frogger-game)  
+Ok, there was challenge for me. I saw this task solved from another students. I saw couple tutorials how to solve this task. It helps to understand what is going on, but write by myself really hard. Also a changed enemy character because bugs looks scares. Still I need to learn deeper because I feel my knowledge it's not enough to write whole game.
