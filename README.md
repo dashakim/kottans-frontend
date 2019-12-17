@@ -63,3 +63,7 @@ Good idea to start from "a tiny world" task, I don't pay attention on high part 
 [Demo](https://dashakim.github.io/frontend-frogger-game/)  
 [Code base](https://github.com/dashakim/frontend-frogger-game/blob/master/js/app.js)  
 Ok, there was challenge for me. I saw this task solved from another students. I saw couple tutorials how to solve this task. It helps to understand what is going on, but write by myself really hard. Also a changed enemy character because bugs look scares. Still I need to learn deeper because I feel my knowledge it's not enough to write whole game.
+
+## Offline Web Applications  
+<img src="task_offline_web_applications/offline_web_applications.png">  
+I can hardly understand all those topic. This is a huge improvement in the user experience. 
