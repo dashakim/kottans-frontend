@@ -67,3 +67,7 @@ Ok, there was challenge for me. I saw this task solved from another students. I 
 ## Offline Web Applications  
 <img src="task_offline_web_applications/offline_web_applications.png">  
 I can hardly understand all those topic. This is a huge improvement in the user experience. 
+
+## Web Perfomance Optimization  
+<img src="web-perfomance-optimization/web-perfomance.png">  
+<img src="web-perfomance-optimization/browser-rendering-optimization.png">  
