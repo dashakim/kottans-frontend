@@ -71,3 +71,4 @@ I can hardly understand all those topic. This is a huge improvement in the user 
 ## Web Perfomance Optimization  
 <img src="web-perfomance-optimization/web-perfomance.png">  
 <img src="web-perfomance-optimization/browser-rendering-optimization.png">  
+<img src="web-perfomance-optimization/responsive-img.png">
