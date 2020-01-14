@@ -53,7 +53,7 @@ Actually, it's was excited part of education, finally I can use my theoretical k
 
 ## A Tiny JS World
 [Demo](https://dashakim.github.io/a-tiny-JS-world/)  
-Good idea to start from "a tiny world" task, I don't pay attention on high part of OOP principles and just start from basic structure. Later, I will improve my task? so it will look DRY and SOLID)
+Good idea to start from "a tiny world" task, I don't pay attention on high part of OOP principles and just start from basic structure. Later, I will improve my task, so it will look DRY and SOLID)
 
 ## Object Oriented JS
 [Object Oriented JS](task_js_oop/oop_js.png)  
@@ -72,4 +72,4 @@ I can hardly understand all those topic. This is a huge improvement in the user 
 <img src="web-perfomance-optimization/web-perfomance.png">  
 <img src="web-perfomance-optimization/browser-rendering-optimization.png">  
 <img src="web-perfomance-optimization/responsive-img.png">
-Huge topic, a lot of information! The mosst breathful part was browser rendering. Finally I saw browser engine inside. One part of udacity course was time consuming, especially work in chrome dev tools, becuase some parts are new and different unlike on course. 
+Huge topic, a lot of information! The most breathful part was browser rendering. Finally I saw browser engine inside. One part of udacity course was time consuming, especially work in chrome dev tools, becuase some parts are new and different unlike on course.
