@@ -72,3 +72,4 @@ I can hardly understand all those topic. This is a huge improvement in the user 
 <img src="web-perfomance-optimization/web-perfomance.png">  
 <img src="web-perfomance-optimization/browser-rendering-optimization.png">  
 <img src="web-perfomance-optimization/responsive-img.png">
+Huge topic, a lot of information! The mosst breathful part was browser rendering. Finally I saw browser engine inside. One part of udacity course was time consuming, especially work in chrome dev tools, becuase some parts are new and different unlike on course. 
